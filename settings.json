@@ -1,0 +1,16 @@
+{
+    "name": "Decentralized solidity program",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Decentralized solidity program",
+        "/category/asset_value_tracking/core-token/symbol": "DSP",
+        "/category/asset_value_tracking/core-token/decimals": "0000",
+        "/category/asset_value_tracking/core-token/supply": "100000"
+    }
+}
